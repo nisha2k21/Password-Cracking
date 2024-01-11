@@ -1,9 +1,8 @@
 # Password-Cracking
 
 Sill- 
-CRYPTOGRAPHY BASICS
-PASSWORD BEST-PRACTICE
-PASSWORD CRACKING
+Cryptography Basics, Password-Cracking
+
 
 I just completed Goldman Sachs's Software Engineering on Forage. In the simulation I:
 
