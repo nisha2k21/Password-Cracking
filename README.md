@@ -6,7 +6,7 @@ Cryptography Basics, Password-Cracking
 
 I just completed Goldman Sachs's Software Engineering on Forage. In the simulation I:
 
-Completed a job simulation as a Goldman Sachs governance analyst responsible for assessing IT security and suggesting improvements.
+Completed a job simulation as a Goldman Sachs governance analyst responsible for assessing IT security and suggesting improvements. 
 
 Identified that the company was using an outdated password hashing algorithm by cracking passwords using Hashcat.
 
